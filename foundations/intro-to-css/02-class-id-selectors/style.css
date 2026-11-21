@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.first,.third{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, DejaVu Sans,sans-serif;
+}
+#uno{
+    color:#0000ff ;
+    font-size: 36px;
+
+}
+#dos{
+    background-color: rgb(138, 227, 138);
+    font-size: 24px;
+    font: 100;
+
+}
+.second{
+    background-color: hsl(321, 100%, 81%);
+    font-family: Verdana, DejaVu Sans,sans-serif;
+    font-size: 24px;
+
+}
